@@ -234,6 +234,4 @@ Output yang ditampilkan:
 ```
 
 ## Output
-![Uploading form_output.png…]()
-
-
+<img width="1036" height="860" alt="form_output" src="https://github.com/user-attachments/assets/2d04f16e-bb7e-4ece-9a92-2be6ca557226" />
